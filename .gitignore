@@ -2,3 +2,5 @@
 .vscode/
 .ipynb_checkpoints/
 .DS_Store
+.venv/
+neural_networks/market_direction/data/
